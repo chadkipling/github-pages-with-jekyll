@@ -7,4 +7,4 @@ tags:
 - Blog
 ---
 
-lorum ipsum
+lorum ipsum 2
