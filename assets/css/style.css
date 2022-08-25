@@ -16,7 +16,7 @@ body {
 }
 
 .border {
-	background: url('../../border.png');
+	background: url('../images/border.png');
 	height: 40px;
 }
 
