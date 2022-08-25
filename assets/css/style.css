@@ -23,6 +23,7 @@ body {
 .page-content {   
 	float: left;
 	width: 75%;
+	margin: 0 150px 0;
 }
 
 .rightcolumn {
